@@ -2,9 +2,9 @@
 
 Little math quiz I made on a long drive.
 
-User continues to get +, -, * or / questions until an incorrect answer is given
-Current score is printed after each correct answer given 
-A final score is printed out at the 
+User continues to get +, -, * or / questions until an incorrect answer is given.
+Current score is printed after each correct answer given.
+A final score is printed out at the end.
 
 In hindsight I should have incorporated a try/except for each 'int(input(question_to_be_answered))'
 
